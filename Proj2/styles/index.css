@@ -1,0 +1,31 @@
+body {
+    margin-left: 15%;
+    width: 70%;
+}
+h2, h3, h4 {
+    text-align: center;
+}
+img {
+    width: 100%;
+    border: 1px solid gray;
+}
+p {
+    text-align: justify;
+    text-justify: inter-word;
+}
+
+.group-tick line {
+  stroke: #000;
+}
+
+.ribbons {
+  fill-opacity: 0.67;
+}
+
+.framed {
+    border: 1px solid black;
+}
+
+g .bar .fade {
+    opacity: .5;
+}
